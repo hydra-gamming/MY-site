@@ -148,3 +148,6 @@ a:hover{
     margin: auto;
     line-height: 2;
 }
+.my-img{
+    border-radius: 100%;
+}
